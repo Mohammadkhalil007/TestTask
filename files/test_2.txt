@@ -1,0 +1,3 @@
+This is the content of dummy2.txt.
+It also contains some sample text for testing.
+You can add more text or change the content as needed.
